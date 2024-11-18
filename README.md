@@ -22,9 +22,9 @@ Guava Leaves and Fruit Disease Dataset
 
 
 ## 🛠 Skills
-Programming Languages
+#### Programming Languages
 -Python
-Libraries and Frameworks
+#### Libraries and Frameworks
 - TensorFlow
 - Keras
 - NumPy
@@ -32,22 +32,22 @@ Libraries and Frameworks
 - Matplotlib
 - Seaborn
 - OpenCV
-Machine Learning and Deep Learning
-Convolutional Neural Networks (CNN)
+#### Machine Learning and Deep Learning
+- Convolutional Neural Networks (CNN)
 - Image Classification
 - Transfer Learning
-Data Processing and Visualization
+#### Data Processing and Visualization
 - Data Augmentation
 - Image Preprocessing
 - Training and Validation Accuracy Visualization
 - Confusion Matrix
-Tools
+#### Tools
 - Google Colab
 - Jupyter Notebook
-Version Control
+#### Version Control
 - Git
 - GitHub
-Other Skills
+#### Other Skills
 - Image Data Analysis
 - Model Optimization (e.g., Dropout, Fine-Tuning Learning Rate)
 - Interpretability (e.g., Grad-CAM)
